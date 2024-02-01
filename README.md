@@ -1,12 +1,19 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=sen-mao&show_icons=true&theme=radical)
+#### I'm Senmao Li
+
+👨‍🎓 I’m currently learning at Nankai University, under the supervision of [Prof. Yaxing Wang](https://scholar.google.es/citations?user=6CsB8k0AAAAJ&hl)
+
+🎨 My research interest mainly focuses on generative model, image generation, and image-to-image translation.
+
+📫[[Google Scholar]](https://scholar.google.co.id/citations?user=F96SDKwAAAAJ&hl=no) \|
+
+![Senmao' github stats](https://github-readme-stats.vercel.app/api?username=sen-mao&show_icons=true&theme=transparent)
 <!--
-**lixinustc/lixinustc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learn
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
